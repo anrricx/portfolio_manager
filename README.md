@@ -149,18 +149,7 @@ python backtest.py
 python data_pipeline.py
 ```
 
-## Important Notes
 
-⚠️ **This is INFORMATION-ONLY software. Do NOT execute trades automatically.**
-
-- Always review recommendations carefully
-- Past performance does not guarantee future results
-- Start with paper trading before using real money
-- Consult financial professionals before making investment decisions
-
-## License
-
-[Add your license here]
 
 ## Contributing
 
